@@ -2,10 +2,10 @@ import mysql from "mysql2/promise"
 
 // 数据库连接配置
 const dbConfig = {
-  host: process.env.DB_HOST || "156.226.176.148",
+  host: process.env.DB_HOST || "127.0.0.1",
   port: Number.parseInt(process.env.DB_PORT || "3306"),
   user: process.env.DB_USER || "tc",
-  password: process.env.DB_PASSWORD || "aNMEFHXJ55Nkf77K",
+  password: process.env.DB_PASSWORD || "tc",
   database: process.env.DB_NAME || "tc",
   charset: "utf8mb4",
   timezone: "+00:00",
