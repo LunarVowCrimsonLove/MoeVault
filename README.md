@@ -1,6 +1,6 @@
 # 🌸 MoeVault - 可爱图床服务
 
-![Banner](https://picsum.photos/1200/400?random=1)
+![Banner](https://loliapi.com/acg/)
 
 > 支持多云存储的二次元风格图床应用
 
@@ -69,11 +69,11 @@ DB_PASSWORD=yourpassword
 3. 提交Pull Request
 
 ## 📄 许可证
-MIT License
+AGPL-3.0 license
 
 ---
 
 <div align="center">
-  <img src="https://picsum.photos/200/200?random=2" width="100">
+  <img src="https://loliapi.com/acg/" width="100">
   <p>用爱发电，让世界更可爱 (◕‿◕)♡</p>
 </div>
